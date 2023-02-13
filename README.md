@@ -1,10 +1,6 @@
 #  Hellooooow! Bem vindo ao meu Github. 🤘
 ## Meu nome é Manuel mas podem me chamar de Mel!
 
-      ✨   **n4rtes/n4rtes**    ✨ 
-
-Um pouco sobre mim:
-
 - ✏️ Sou tatuador a 16 anos em trânsição de carreira para área de tecnologia 💻
 - 💒 Moro em Salvador-BA...
 - 💾 Cursando Programção FULL STACK:
@@ -15,12 +11,6 @@ Um pouco sobre mim:
 - 🎼 Música:
    🎸 Guitarra/violão 🎻 Contra-baixo e um pouco de Cavaquinho
    🎹 Teclado
-- 😄 Pronomes: Ele, dele...
-
-- 📫 Como entrar em contato comigo...
-- 💬 Pergunte-me sobre...
--   
--->
 
 ## Tec. & Tools:
 
