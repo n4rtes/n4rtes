@@ -1,5 +1,5 @@
-#  Hellooooow! Bem vindo ao meu Github. 🤘
-## Meu nome é Manuel mas podem me chamar de Mel!
+#  Hellooooow! Bem vindo ao meu Github. 
+## Meu nome: Manuel...mas atendo por Mel! 🤘
 
 - ✏️ Sou tatuador a 16 anos em trânsição de carreira para área de tecnologia 💻
 - 💒 Moro em Salvador-BA...
