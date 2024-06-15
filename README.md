@@ -10,7 +10,7 @@
           
         🏨 Já trabalhei com Hotelaria
           
-        🎼 Música:
+        🎼 Na area musical sei:
           🎸 Guitarra/violão 
           🎻 Contra-baixo e um pouco de Cavaquinho
           🎹 Teclado
